@@ -1,4 +1,3 @@
-# preptrack-nagaraj
 # PrepTrack – Placement Preparation Performance Analyzer
 
 ## Project Overview
